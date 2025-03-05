@@ -1,4 +1,4 @@
-#Risk Prediction
+# Risk Prediction
 
 Description: This project explores machine learning techniques for risk classification, focusing on the evaluation and optimization of different models.
 Key Techniques: Implemented Perceptron, Decision Trees, KNN, and Neural Networks from scratch to analyze classification problems.
